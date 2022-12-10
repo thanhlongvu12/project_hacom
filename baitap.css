@@ -1,0 +1,287 @@
+header{
+    display: flex;
+}
+section{
+    padding: 30px;
+}
+.logo{
+    width: 1;
+   height: 1;
+   width: auto;
+   height: auto;
+
+} 
+.custom-btn{
+    color: black;
+    border: 1px solid gray;
+    font-weight: 300;
+    font-size: 25px;
+    height: 40px;
+}
+.search{
+    padding-left: 40px;
+}
+.search1{
+    width: 400px;
+    height: 40px;
+   padding-left: 20px;
+    border: 2px solid red;
+}
+.search2{
+        width: 100px;
+        height: 40px;
+        background: rgb(228, 82, 82);
+        border: 1px solid red;
+}
+
+.logo2{
+    height: 100px;
+    width: 100px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+.chu1{
+    text-decoration: none;
+    color: rgb(8, 8, 129);
+}
+.chu0{
+    text-decoration: none;
+    color: black;
+}
+.chu2{
+    text-decoration: none;
+}
+.chu3{
+    font-weight: 10;
+    color: rgb(175, 168, 168);
+    font-size: small;
+}
+.chu4{
+    border-bottom: 3px solid black;
+    width: 40%;
+}
+.anh1{
+    height: 192px;
+    width: 584px;
+}
+.part1{
+    padding-left: 20px;
+    width: 281px;
+}
+.part11{
+    border: 1px solid black;
+    width: 258px;
+    height: 32px;
+    background-color: blanchedalmond;
+}
+.chu6{
+    padding-left: 80px;
+}
+.part12{
+    padding-top: 30px;
+}
+.chu7{
+    font-weight: 600;
+font-size: large;
+}
+.container{
+    display: flex;
+}
+
+.container .part13 ul{
+    list-style: none;
+}
+.container .part13 ul li a{
+text-decoration: none;
+font-weight: bold;
+color: black;
+}
+.part14{
+    padding-top: 20px;
+    border-bottom: 1px solid gray;
+    
+}
+.part21{
+    background-color: rgb(219, 213, 213);
+    height: 108px;
+    width: 884px;
+}
+.chon1{
+    height: 31px;
+    width: 180px;
+    
+}
+.part211{
+    padding-left: 10px;
+    padding-top: 10px;
+    display: flex;
+}
+.chon2{
+    height: 31px;
+    width: 312px;
+}
+.loc1{
+    height: 28px;
+    width: 96px;
+}
+.loc2{
+    height: 28px;
+    width: 97px;
+}
+.nut1{
+height: 28px;
+width: 50px;
+background-color: rgb(118, 118, 242);
+border: 1px solid rgb(105, 105, 207);
+}
+
+.part212{
+    padding-top: 20px;
+    padding-left: 10px;
+    display: flex;
+}
+.doi1 a{
+    text-decoration: none;
+    padding-left: 6px;
+    padding-top: 5px;
+}
+.doi2 a{
+    text-decoration: none;
+    padding-left: 6px;
+    padding-top: 5px;
+}
+.doi1{
+    border: 1px solid blue;
+    height: 28px;
+    width: 81px;
+    background-color: aliceblue;
+    color: blue;
+    padding-left: 3px;
+}
+.doi2{
+    border: 1px solid blue;
+    height: 28px;
+    width: 110px;
+    background-color: aliceblue;
+    color: blue;
+}
+.so{
+    padding-left: 13px;
+    height: 28px;
+    width: 25px;
+    background-color:white;
+    color: blue;
+
+}
+.part213{
+    padding-left: 10px;
+}
+.so a{
+    text-decoration: none;
+}
+.part221{
+    display: flex;
+}
+
+.part2211{
+    height: 406px;
+    width: 219px;
+    border: 1px solid black;
+}
+.part2211 h4 .chu9{
+    font-size: small;
+    color: red;
+}
+.anh10{
+    width: 195px;
+    height: 146px;
+}
+.part2211 h2 a{
+text-decoration: none;
+    color: green;
+}
+.doi1 a:hover {
+
+    color: red;
+    
+    text-decoration: under-line;
+    
+    }
+ .doi2 a:hover{
+        color: red;
+    
+        text-decoration: under-line; 
+    }
+    .so a:hover{
+        color: red;
+    
+        text-decoration: under-line; 
+    }
+    .cuoi{
+        height: 161px;
+        width: 1261px;
+        background-color: rgb(4, 4, 80);
+    }
+    .cuoi h1{
+        color: aliceblue;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .gui1{
+        height: 40px;
+        width: 475px;
+        padding-left: 50px;
+    }
+    .gui2{
+        width: 135px;
+        height: 42px;
+        background-color: red;
+        border: 1px solid red;
+        color: aliceblue;
+    }
+    .gui{
+        padding-left: 300px;
+    }
+    .dong1{
+        width: 36px;
+        height: 32px;
+        color: aliceblue;
+        background: red;
+    }
+    .dong2{
+background: rgb(5, 5, 95);
+color: aliceblue;
+   }
+   footer .cuoi1 .cuoi11 h3 a{
+    text-decoration: none;
+    color: red;
+   }
+   footer .cuoi1 .cuoi11 h4{
+    font-size: small;
+    font-weight: lighter;
+   }
+   .cuoibai{
+    text-align: center;
+    border-bottom: 4px solid black;
+   }
+.cuoi11{
+    width: 389px;
+    height: 350px;
+}
+footer .cuoi1 .cuoi11 h1{
+    font-size: 20px ;
+}
+.cuoi1{
+    padding-left: 40px;
+    display: flex;
+}
+.part15{
+    width: 276px;
+    height: 1000px;
+    display: flex;
+}
+.part15 .part151 ul {
+    list-style: none;
+
+}
